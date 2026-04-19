@@ -26,25 +26,22 @@ UBER-ANALYSIS/
 
 ## 📊 Charts & Visualizations
 
-### 1. Booking Status Distribution
-![Booking Status](outputs/booking_status.png)
-
-### 2. Most Popular Vehicle Types
+### 1. Most Popular Vehicle Types
 ![Vehicle Types](outputs/vehicle_types.png)
 
-### 3. Busiest Hours of the Day
+### 2. Busiest Hours of the Day
 ![Busiest Hours](outputs/busiest_hours.png)
 
-### 4. Busiest Days of the Week
+### 3. Busiest Days of the Week
 ![Busiest Days](outputs/busiest_days.png)
 
-### 5. Payment Method Distribution
+### 4. Payment Method Distribution
 ![Payment Methods](outputs/payment_pie.png)
 
-### 6. Heatmap — Hour vs Day of Week
+### 5. Heatmap — Hour vs Day of Week
 ![Heatmap](outputs/heatmap.png)
 
-### 7. Top 10 Pickup Locations
+### 6. Top 10 Pickup Locations
 ![Top Pickups](outputs/top_pickups.png)
 
 ---
